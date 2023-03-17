@@ -1,8 +1,24 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: MiraEdu
+description: Blog học tập dành cho các bạn học sinh
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://blog-miraedu.pages.dev/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Mã nguồn: https://github.com/nguyenntdev/MiraEDU-blog/
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/miraedu.png"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.ico"
+
+footer_content: "Bản quyền &copy; 2022 Nguyễn Ngọc Thiện và Hà Xuân Huy. Được phân phối bởi <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">giấy phép MIT.</a>"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+color_scheme: dark
+
+

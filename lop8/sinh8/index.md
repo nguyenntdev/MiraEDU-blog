@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Lớp 8
-nav_order: 2
+title: Sinh học
+parent: Lớp 8
+nav_order: 3
 has_children: true
 ---
 

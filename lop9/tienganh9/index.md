@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toán học
+title: Tiếng Anh
 parent: Lớp 9
 nav_order: 3
 has_children: true
